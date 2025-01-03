@@ -2,6 +2,9 @@
 
 Este repositorio contiene el primer proyecto del curso **"Aprende Flexbox, CSS Grid, Custom Properties, SASS, Mixins, Gulp Workflows, Animaciones, RWD y mucho más!"** de Udemy. El proyecto consiste en una tienda de muebles desarrollada como introducción al diseño y maquetación web utilizando HTML y CSS, con un enfoque en Flexbox y Grid.
 
+## Vista Previa del Proyecto
+![Vista Previa](img/Muestra.png)
+
 ## Descripción del Proyecto
 El objetivo de este proyecto es construir un sitio web para una tienda de muebles que sea moderno, responsivo y estéticamente atractivo. Se puso especial énfasis en:
 
